@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IucundaTash
+- 👋 Hi, I’m @Iucunda
 - 👀 I’m interested in Python for Data Science and Machine Learning.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate data related projects.
